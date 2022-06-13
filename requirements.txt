@@ -1,0 +1,5 @@
+bqplot
+numpy
+ipywidgets
+jupyterlab-widgets
+widgetsnbextension
